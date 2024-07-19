@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Libre Office
+Comment=A Microsoft Office Alternative
+Exec=/usr/bin/docker compose -f /home/admin/source/libreoffice/docker-compose.yml up -d
+Icon=/home/admin/Pictures/icons/gqrx.png
+Terminal=false
+Categories=Office;
